@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
+    "title": "GPT-3 Frontend",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Experience the power of AI with GPT-3 Frontend. Seamlessly interact with cutting-edge natural language processing technology, enabling a wide range of applications from creative writing assistance to conversational interfaces.",
+    "skills": ["React", "Javascript", "HTML", "CSS"],
+    "demo": "https://sanvedamate.github.io/gpt3/",
+    "source": "https://github.com/SanvedAmate/gpt3.git"
   },
   {
-    "title": "Project B",
+    "title": "Ecommerce website",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Step into the world of online shopping with our Ecommerce website. Discover a seamless browsing experience, where you can explore a vast array of products from the comfort of your home. ",
+    "skills": [ "HTML", "Javascript", "CSS"],
+    "demo": "https://sanvedamate.github.io/E-commerce-/",
+    "source": "https://github.com/SanvedAmate/E-commerce-.git"
   },
   {
-    "title": "Project C",
+    "title": "TV-series-app",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Dive into the world of television like never before with our TV Series App. Explore a collection of shows, ranging from  classics to the latest releases. With personalized recommendations and user-friendly navigation.",
+    "skills": ["React", "Javascript", "HTML", "CSS"],
+    "demo": "",
+    "source": "https://github.com/SanvedAmate/tv-series-app.git"
   }
 ]
